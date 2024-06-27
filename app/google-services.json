@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116604845006",
+    "project_id": "zavrsna-app",
+    "storage_bucket": "zavrsna-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116604845006:android:413f6f897958adae52899f",
+        "android_client_info": {
+          "package_name": "hr.uniri.zavrsna_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_POYIo4FY1oqK9Sk1ferAgBUn1EkDTvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
